@@ -1,0 +1,19 @@
+ToDo:
+-----
+-enable multiple nodes to be tracked
+-change data storage implementation to database
+-call in functions as libraries
+-test using actual trap
+-test using multiple traps
+-on website:
+  +allow addition of new traps on website
+  +display bug counters on google maps
+  +create logins for end users
+
+
+Done:
+-----
+-in E10:
+  +auto add trap that doesn't exist in records
+  +record trap count for newly added trap
+  +stop count from being reset during E_10* init
