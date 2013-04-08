@@ -1,6 +1,5 @@
 ToDo:
 -----
--enable multiple nodes to be tracked
 -change data storage implementation to database
 -call in functions as libraries
 -test using actual trap
